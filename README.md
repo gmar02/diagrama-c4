@@ -12,14 +12,14 @@ O arquivo `diagrama.c4.dsl` contém o mesmo código abaixo.
 
 ## Galeria
 
-![Diagrama de Contexto](./svg/SystemContext.svg "Diagrama de Contexto")
 <h1>Diagrama de Contexto<h1>
+![Diagrama de Contexto](./svg/SystemContext.svg "Diagrama de Contexto")
 
-![Diagram de Container](./svg/Containers.svg "Diagrama de Container")
 <h1>Diagrama de Containers</h1>
+![Diagram de Container](./svg/Containers.svg "Diagrama de Container")
 
-![Diagrama de Componentes](./svg/ApplicationComponents.svg "Digrama de Componentes")
 <h1>Diagrama de Componentes</h1>
+![Diagrama de Componentes](./svg/ApplicationComponents.svg "Digrama de Componentes")
 
 ## Diagrama
 
