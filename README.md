@@ -10,6 +10,14 @@ Os diretórios `svg` e `png` contém, respectivamente, as exportações nos form
 
 O arquivo `diagrama.c4.dsl` contém o mesmo código abaixo.
 
+## Galeria
+
+![Diagrama de Contexto](./svg/SystemContext.svg "Diagrama de Contexto)
+
+![Diagram de Container](./svg/Containers.svg "Diagrama de Container")
+
+![Diagrama de Componentes](./svg/ApplicationComponents.svg "Digrama de Componentes")
+
 ## Diagrama
 
 > Basta copiar o código abaixo e colar em <a href="https://playground.structurizr.com/">https://playground.structurizr.com/</a>
